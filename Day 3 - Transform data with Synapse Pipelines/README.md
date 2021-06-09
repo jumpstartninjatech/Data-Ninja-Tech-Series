@@ -1,6 +1,6 @@
-# Module 8 - Transform data with Azure Data Factory or Azure Synapse Pipelines
+# Module - Transform data with Azure Data Factory or Azure Synapse Pipelines
 
-This module teaches students how to build data integration pipelines to ingest from multiple data sources, transform data using mapping data flows and notebooks, and perform data movement into one or more data sinks.
+This module teaches how to build data integration pipelines to ingest from multiple data sources, transform data using mapping data flows and notebooks, and perform data movement into one or more data sinks.
 
 In this module, the student will be able to:
 
@@ -10,7 +10,7 @@ In this module, the student will be able to:
 
 ## Lab details
 
-- [Module 8 - Transform data with Azure Data Factory or Azure Synapse Pipelines](#module-8---transform-data-with-azure-data-factory-or-azure-synapse-pipelines)
+- [Module - Transform data with Azure Data Factory or Azure Synapse Pipelines](#Module---transform-data-with-azure-data-factory-or-azure-synapse-pipelines)
   - [Lab details](#lab-details)
   - [Lab setup and pre-requisites](#lab-setup-and-pre-requisites)
   - [Exercise 0: Start the dedicated SQL pool](#exercise-0-start-the-dedicated-sql-pool)
@@ -41,17 +41,6 @@ In this module, the student will be able to:
 **Complete the [lab setup instructions](https://github.com/solliancenet/microsoft-data-engineering-ilt-deploy/blob/main/setup/04/README.md)** for this module.
 
 Note, the following modules share this same environment:
-
-- [Module 4](labs/04/README.md)
-- [Module 5](labs/05/README.md)
-- [Module 7](labs/07/README.md)
-- [Module 8](labs/08/README.md)
-- [Module 9](labs/09/README.md)
-- [Module 10](labs/10/README.md)
-- [Module 11](labs/11/README.md)
-- [Module 12](labs/12/README.md)
-- [Module 13](labs/13/README.md)
-- [Module 16](labs/16/README.md)
 
 ## Exercise 0: Start the dedicated SQL pool
 

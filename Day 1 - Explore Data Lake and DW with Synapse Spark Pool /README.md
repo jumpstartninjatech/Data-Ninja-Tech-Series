@@ -1,4 +1,4 @@
-# Module 5 - Explore, transform, and load data into the Data Warehouse using Apache Spark
+# Module - Explore, transform, and load data into the Data Warehouse using Apache Spark
 
 This module teaches how to explore data stored in a data lake, transform the data, and load data into a relational data store. The student will explore Parquet and JSON files and use techniques to query and transform JSON files with hierarchical structures. Then the student will use Apache Spark to load data into the data warehouse and join Parquet data in the data lake with data in the dedicated SQL pool.
 
@@ -11,7 +11,7 @@ In this module, the student will be able to:
 
 ## Lab details
 
-- [Module 5 - Explore, transform, and load data into the Data Warehouse using Apache Spark](#module-5---explore-transform-and-load-data-into-the-data-warehouse-using-apache-spark)
+- [Module - Explore, transform, and load data into the Data Warehouse using Apache Spark](#Module---explore-transform-and-load-data-into-the-data-warehouse-using-apache-spark)
   - [Lab details](#lab-details)
   - [Lab setup and pre-requisites](#lab-setup-and-pre-requisites)
   - [Exercise 0: Start the dedicated SQL pool](#exercise-0-start-the-dedicated-sql-pool)
@@ -34,18 +34,7 @@ In this module, the student will be able to:
 
 **Complete the [lab setup instructions](https://github.com/solliancenet/microsoft-data-engineering-ilt-deploy/blob/main/setup/04/README.md)** for this module.
 
-Note, the following modules share this same environment:
 
-- [Module 4](labs/04/README.md)
-- [Module 5](labs/05/README.md)
-- [Module 7](labs/07/README.md)
-- [Module 8](labs/08/README.md)
-- [Module 9](labs/09/README.md)
-- [Module 10](labs/10/README.md)
-- [Module 11](labs/11/README.md)
-- [Module 12](labs/12/README.md)
-- [Module 13](labs/13/README.md)
-- [Module 16](labs/16/README.md)
 
 ## Exercise 0: Start the dedicated SQL pool
 

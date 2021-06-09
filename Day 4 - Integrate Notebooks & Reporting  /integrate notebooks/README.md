@@ -1,14 +1,14 @@
-# Module 9 - Integrate data from notebooks with Azure Data Factory or Azure Synapse Pipelines
+# Module - Integrate data from notebooks with Azure Data Factory or Azure Synapse Pipelines
 
-The student will learn how to create linked services, and orchestrate data movement and transformation in Azure Synapse Pipelines.
+Will learn how to create linked services, and orchestrate data movement and transformation in Azure Synapse Pipelines.
 
-In this module, the student will be able to:
+In this module, you will be able to:
 
 - Orchestrate data movement and transformation in Azure Synapse Pipelines
 
 ## Lab details
 
-- [Module 9 - Integrate data from notebooks with Azure Data Factory or Azure Synapse Pipelines](#module-9---integrate-data-from-notebooks-with-azure-data-factory-or-azure-synapse-pipelines)
+- [Module - Integrate data from notebooks with Azure Data Factory or Azure Synapse Pipelines](#Module---integrate-data-from-notebooks-with-azure-data-factory-or-azure-synapse-pipelines)
   - [Lab details](#lab-details)
   - [Lab setup and pre-requisites](#lab-setup-and-pre-requisites)
   - [Exercise 1: Linked service and datasets](#exercise-1-linked-service-and-datasets)
@@ -23,7 +23,7 @@ In this module, the student will be able to:
     - [Task 1: Create notebook](#task-1-create-notebook)
     - [Task 2: Add the Notebook to the pipeline](#task-2-add-the-notebook-to-the-pipeline)
 
-> **TODO:** Include the data sources, mapping data flow, and pipeline from Module 9 in the setup for Module 10.
+> **TODO:** Include the data sources, mapping data flow, and pipeline from Module in the setup for Module 10.
 
 ## Lab setup and pre-requisites
 
@@ -31,18 +31,6 @@ In this module, the student will be able to:
 
 **Complete the [lab setup instructions](https://github.com/solliancenet/microsoft-data-engineering-ilt-deploy/blob/main/setup/04/README.md)** for this module.
 
-Note, the following modules share this same environment:
-
-- [Module 4](labs/04/README.md)
-- [Module 5](labs/05/README.md)
-- [Module 7](labs/07/README.md)
-- [Module 8](labs/08/README.md)
-- [Module 9](labs/09/README.md)
-- [Module 10](labs/10/README.md)
-- [Module 11](labs/11/README.md)
-- [Module 12](labs/12/README.md)
-- [Module 13](labs/13/README.md)
-- [Module 16](labs/16/README.md)
 
 ## Exercise 1: Linked service and datasets
 

@@ -1,4 +1,4 @@
-# Module 13 - End-to-end security with Azure Synapse Analytics
+# Module - End-to-end security with Azure Synapse Analytics
 
 In this module, students will learn how to secure a Synapse Analytics workspace and its supporting infrastructure. The student will observe the SQL Active Directory Admin, manage IP firewall rules, manage secrets with Azure Key Vault and access those secrets through a Key Vault linked service and pipeline activities. The student will understand how to implement column-level security, row-level security, and dynamic data masking when using dedicated SQL pools.
 
@@ -10,7 +10,7 @@ In this module, the student will be able to:
 
 ## Lab details
 
-- [Module 13 - End-to-end security with Azure Synapse Analytics](#module-13---end-to-end-security-with-azure-synapse-analytics)
+- [Module - End-to-end security with Azure Synapse Analytics](#Module---end-to-end-security-with-azure-synapse-analytics)
   - [Lab details](#lab-details)
   - [Resource naming throughout this lab](#resource-naming-throughout-this-lab)
   - [Lab setup and pre-requisites](#lab-setup-and-pre-requisites)
@@ -73,7 +73,7 @@ Note, the following modules share this same environment:
 - [Module 10](labs/10/README.md)
 - [Module 11](labs/11/README.md)
 - [Module 12](labs/12/README.md)
-- [Module 13](labs/13/README.md)
+- [Module](labs/13/README.md)
 - [Module 16](labs/16/README.md)
 
 ## Exercise 0: Start the dedicated SQL pool
