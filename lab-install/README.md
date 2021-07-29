@@ -308,7 +308,7 @@ You may encounter a few errors and warnings during the script execution. The err
 
     ![The pause button is highlighted.](media/sql-pool-pause.png "Pause the SQL pool")
 
-### Task 6: Delete lab setup VM
+### Task 5: Delete lab setup VM (Only after completing the Hands On for all days)
 
 You no longer need the virtual machine if you created one for this lab setup.
 
